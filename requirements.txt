@@ -3,3 +3,7 @@ pandas
 seaborn
 -e .
 setuptools
+ipykernel
+scikit-learn
+xgboost
+catboost
