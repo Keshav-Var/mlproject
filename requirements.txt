@@ -5,6 +5,6 @@ seaborn
 setuptools
 ipykernel
 scikit-learn
-xgboost
+xgboost-cpu
 catboost
 Flask
