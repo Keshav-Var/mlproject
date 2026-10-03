@@ -8,3 +8,4 @@ scikit-learn
 xgboost-cpu
 catboost
 Flask
+scikit-learn
